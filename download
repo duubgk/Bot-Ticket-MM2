@@ -1,0 +1,15 @@
+# segredos e dados da loja: nunca subir pro GitHub
+.env
+settings.json
+estoque.json
+estoque_backup.json
+carrinhos.json
+logo.png
+
+# lixo do Python e do editor
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+*.zip

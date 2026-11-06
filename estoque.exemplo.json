@@ -1,0 +1,9 @@
+{
+  "godlys": [
+    { "nome": "Item de exemplo 1", "qtd": 10, "preco": "20,00" },
+    { "nome": "Item de exemplo 2", "qtd": 5, "preco": "35,50" }
+  ],
+  "sets": [
+    { "nome": "Set de exemplo", "qtd": 3, "preco": "50,00" }
+  ]
+}
